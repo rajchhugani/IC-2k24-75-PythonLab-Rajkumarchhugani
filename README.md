@@ -23,7 +23,8 @@ This repository contains all lab assignments, practical exercises, and theoretic
 ├── Lab4/    # Advanced Star Patterns (Hollow Diamond & Butterfly)
 ├── Lab5/    # Matrix Operations & Pattern Printing
 ├── Lab6/    # Interactive Simulations & Search Algorithms
-└── Lab7/    # Algorithmic Complexity (Big-O Time & Space Analysis)
+├── Lab7/    # Algorithmic Complexity (Big-O Time & Space Analysis)
+└── Lab8/    # Online Practical Coding Assessment (HackerRank)
 ```
 
 ---
@@ -94,6 +95,13 @@ Theoretical and asymptotic analysis using Big-O notation for 22 algorithm snippe
 - Logarithmic division and fast exponentiation ($O(\log n)$).
 - Divide and conquer vs. naive recursion call stack analysis ($O(2^n)$ vs $O(n)$ stack space).
 - Memory footprints of in-place algorithms ($O(1)$) vs slicing and sparse representations ($O(n)$, $O(k)$).
+
+---
+
+### [Lab 8: HackerRank Online Coding Assessment](file:///d:/5th%20Sem/IC-2k24-75-PythonLab-Rajkumarchhugani/Lab8/README.md)
+Practical timed coding assessment completed on **HackerRank**:
+- **Platform:** [Codemos Hackathon Test — Python](https://www.hackerrank.com/codemos-hackathon-test-python)
+- **Topics Assessed:** Real-time problem solving, algorithmic efficiency under time/space constraints, lists, strings, dictionaries, loops, and edge-case testing against hidden automated test suites.
 
 ---
 
